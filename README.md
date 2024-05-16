@@ -57,3 +57,7 @@ Creating new column Total_members by adding adults+children+babies.
 3) City hotels account for approximately 61% of all bookings, while Resort hotels make up the remaining 39%. This distribution indicates that City hotels experience higher booking volumes compared to Resort hotels, making them the busier option among the two.
 
 4) Since the majority of guests originate from Western European countries, it's advisable to allocate a significant portion of our budget towards targeting this region.
+
+## Feedback and Contributions
+
+We welcome your feedback, suggestions, and contributions to this project. If you have ideas for improvements, find issues, or would like to add new features, please don't hesitate to open an issue or submit a pull request. Your contributions are highly appreciated!
